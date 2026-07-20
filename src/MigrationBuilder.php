@@ -74,4 +74,3 @@ PHP;
         return $storage instanceof StorageDirectory;
     }
 }
-
